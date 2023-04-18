@@ -39,4 +39,4 @@ ASP.NET Core позволяет выполнять следующие задач
 7. Интеграция современных клиентских платформ и рабочих процессов разработки.
 
 ## ER-диаграмма
-![image](https://user-images.githubusercontent.com/102659233/231936198-0f3c9d6d-3e29-44c2-b224-bbb77ef1ce1a.png)
+![image](https://user-images.githubusercontent.com/102659233/232803051-a0d18eca-a9e9-4cf4-9d6b-d42fdd65d5c1.png)
